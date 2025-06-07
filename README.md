@@ -41,7 +41,7 @@ Step 3: Preferences (Theme, Layout)
 
 **Screenshots of the working app**
 Step 1: Personal Info 
-![Step 1](screenshots/step1.jpeg)
+![Step 1](C:\Project\my-app\public\screenshots\step1.jpeg)
 
 
 
