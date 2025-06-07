@@ -13,12 +13,12 @@ Multi-step Onboarding (3 Steps):
 Step 1: Personal Info (Name, Email)
 Step 2: Business Info (Company Name, Industry, Size)
 Step 3: Preferences (Theme, Layout)
-1) -->Progress bar at the top
-2) -->“Next”, “Back”, and “Submit” navigation
-3) -->Form validation
-4) -->User data stored in localStorage
-5) -->Dashboard auto-shown after onboarding
-6) -->Dashboard includes:
+1) Progress bar at the top
+2) “Next”, “Back”, and “Submit” navigation
+3) Form validation
+4) User data stored in localStorage
+5) Dashboard auto-shown after onboarding
+6) Dashboard includes:
    1) Team Members count
    2) Active Projects
    3) Notifications
