@@ -27,7 +27,7 @@ Step 3: Preferences (Theme, Layout)
 
 **Setup instructions:**
 1) Project Setup:
-       1)npm install  
+       1) npm install  
 2) 1) npx create-react-app onboarding-dashboard
    2) cd onboarding-dashboard
 3) Install Dependencies:
