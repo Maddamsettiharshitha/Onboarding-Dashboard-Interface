@@ -26,9 +26,10 @@ Step 3: Preferences (Theme, Layout)
 -->Responsive Design for desktop and mobile
 
 **Setup instructions:**
-1) Project Setup: 1) npm install  
-2) 1) npx create-react-app onboarding-dashboard
-   2) cd onboarding-dashboard
+1) Project Setup:
+   1) npm install  
+   2) npx create-react-app onboarding-dashboard
+   3) cd onboarding-dashboard
 3) Install Dependencies:
       1) npm install recharts  # For charts (optional)
       2) npm install axios   # For API requests (optional)
