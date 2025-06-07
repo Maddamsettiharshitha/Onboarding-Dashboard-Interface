@@ -27,15 +27,15 @@ Step 3: Preferences (Theme, Layout)
 
 **Setup instructions:**
 1) Project Setup:
-       npm install  
-2) npx create-react-app onboarding-dashboard
-   cd onboarding-dashboard
+       1)npm install  
+2) 1) npx create-react-app onboarding-dashboard
+   2) cd onboarding-dashboard
 3) Install Dependencies:
-       npm install recharts  # For charts (optional)
-       npm install axios   # For API requests (optional)
+      1) npm install recharts  # For charts (optional)
+      2) npm install axios   # For API requests (optional)
 4)  Start Development Server:
-      npm start
-      Opens the app on http://localhost:3000
+      1) npm start
+      2) Opens the app on http://localhost:3000
 
 
 
