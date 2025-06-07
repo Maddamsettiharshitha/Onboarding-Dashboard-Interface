@@ -47,7 +47,10 @@ Step 3: Preferences (Theme, Layout)
 ![Step 1](https://github.com/Maddamsettiharshitha/Onboarding-Dashboard-Interface/blob/main/public/screenshots/step2.jpeg?raw=true)
 
 3) Step 3: Preferences
-![Step 3]()
+![Step 3](https://github.com/Maddamsettiharshitha/Onboarding-Dashboard-Interface/blob/main/public/screenshots/step3.jpeg?raw=true)
+
+4) Dashboard
+![Step 4]()
   
 
 
