@@ -55,7 +55,6 @@ Step 3: Preferences (Theme, Layout)
 
 ✅** Demo Video**
 
-[Watch Demo](public/videos/demo.mp4)
-
+[Watch Demo](https://github.com/Maddamsettiharshitha/Onboarding-Dashboard-Interface/blob/main/public/videos/Demo-video.mp4)
      
 
