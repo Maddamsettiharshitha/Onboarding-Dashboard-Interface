@@ -1,7 +1,7 @@
-**Onboarding & Dashboard Interface:**
+🚀**Onboarding & Dashboard Interface:**
 A responsive onboarding wizard and user dashboard built using **React** and **CSS**, with support for **localStorage** and optional charting using **Recharts**.
 
-🚀**Tech Stack Used:**
+✅**Tech Stack Used:**
 1) **Frontend:** React
 2) **Styling:** Basic CSS
 3) **State Management:** React Context API
@@ -25,7 +25,7 @@ Step 3: Preferences (Theme, Layout)
 -->(Optional) Weekly progress chart using Recharts
 -->Responsive Design for desktop and mobile
 
-**Setup instructions:**
+✅**Setup instructions:**
 1) Project Setup:
    1) npm install  
    2) npx create-react-app onboarding-dashboard
@@ -39,7 +39,7 @@ Step 3: Preferences (Theme, Layout)
 
 
 
-**Screenshots of the working app**
+✅**Screenshots of the working app**
 1) Step 1: Personal Info 
 ![Step 1](https://github.com/Maddamsettiharshitha/Onboarding-Dashboard-Interface/blob/main/public/screenshots/step1.jpeg?raw=true)
 
