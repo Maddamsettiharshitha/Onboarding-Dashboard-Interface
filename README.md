@@ -40,9 +40,11 @@ Step 3: Preferences (Theme, Layout)
 
 
 **Screenshots of the working app**
-Step 1: Personal Info 
+1) Step 1: Personal Info 
 ![Step 1](https://github.com/Maddamsettiharshitha/Onboarding-Dashboard-Interface/blob/main/public/screenshots/step1.jpeg?raw=true)
 
+2) Step 2: Business Info
+![Step 1](https://github.com/Maddamsettiharshitha/Onboarding-Dashboard-Interface/blob/main/public/screenshots/step1.jpeg?raw=true)
 
 
 
