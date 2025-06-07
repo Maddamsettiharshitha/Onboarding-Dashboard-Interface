@@ -53,7 +53,9 @@ Step 3: Preferences (Theme, Layout)
 ![Step 4](https://github.com/Maddamsettiharshitha/Onboarding-Dashboard-Interface/blob/main/public/screenshots/Dashboard.jpeg?raw=true)
   
 
+✅** Demo Video**
 
+[Watch Demo](public/videos/demo.mp4)
 
      
 
