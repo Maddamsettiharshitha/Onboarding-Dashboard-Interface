@@ -2,11 +2,11 @@
 A responsive onboarding wizard and user dashboard built using **React** and **CSS**, with support for **localStorage** and optional charting using **Recharts**.
 
 🚀**Tech Stack Used:**
-1)**Frontend:** React
-2)**Styling:** Basic CSS
-3)**State Management:** React Context API
-4)**Data Persistence:** localStorage
-5)**Optional Charts:** Recharts
+1) **Frontend:** React
+2) **Styling:** Basic CSS
+3) **State Management:** React Context API
+4) **Data Persistence:** localStorage
+5) **Optional Charts:** Recharts
 
 ✅ Features
 Multi-step Onboarding (3 Steps):
