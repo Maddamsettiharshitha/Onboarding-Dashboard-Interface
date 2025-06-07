@@ -8,17 +8,17 @@ A responsive onboarding wizard and user dashboard built using **React** and **CS
 4) **Data Persistence:** localStorage
 5) **Optional Charts:** Recharts
 
-✅ Features
+✅ **Features**
 Multi-step Onboarding (3 Steps):
 Step 1: Personal Info (Name, Email)
 Step 2: Business Info (Company Name, Industry, Size)
 Step 3: Preferences (Theme, Layout)
--->Progress bar at the top
--->“Next”, “Back”, and “Submit” navigation
--->Form validation
--->User data stored in localStorage
--->Dashboard auto-shown after onboarding
--->Dashboard includes:
+1) -->Progress bar at the top
+2) -->“Next”, “Back”, and “Submit” navigation
+3) -->Form validation
+4) -->User data stored in localStorage
+5) -->Dashboard auto-shown after onboarding
+6) -->Dashboard includes:
    1) Team Members count
    2) Active Projects
    3) Notifications
