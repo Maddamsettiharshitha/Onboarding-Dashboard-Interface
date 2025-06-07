@@ -46,8 +46,8 @@ Step 3: Preferences (Theme, Layout)
 2) Step 2: Business Info
 ![Step 1](https://github.com/Maddamsettiharshitha/Onboarding-Dashboard-Interface/blob/main/public/screenshots/step2.jpeg?raw=true)
 
-
-
+3) Step 3: Preferences
+![Step 3]()
   
 
 
